@@ -1,6 +1,6 @@
 {
-    "name": "teste_web",
-    "short_name": "teste_web",
+    "name": "my_portfolio",
+    "short_name": "my_portfolio",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
