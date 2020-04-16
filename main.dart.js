@@ -39353,7 +39353,7 @@ Y.tE.prototype={
 gMC:function(){var t=null,s=u.z
 return H.b([Z.KN("/",new Y.E5(),t,t,t,t,t,C.jw,s),Z.KN("/projects",new Y.E6(),t,t,t,t,t,C.jw,s),Z.KN("/about",new Y.E7(),t,t,t,t,t,C.jw,s)],u.eE)}}
 Y.E5.prototype={
-$2:function(a,b){return new X.kN(new M.qa(B.cq(C.j,25,C.I),B.cq(C.j,20,C.I),B.cq(C.j,15,C.p),B.cq(C.j,80,C.ar),B.cq(C.j,40,C.ar),B.cq(C.j,25,C.aH)),null)},
+$2:function(a,b){return new X.kN(new M.qa(B.cq(C.j,25,C.I),B.cq(C.j,20,C.I),B.cq(C.j,15,C.p),B.cq(C.j,80,C.ar),B.cq(C.j,30,C.ar),B.cq(C.j,25,C.aH)),null)},
 $C:"$2",
 $R:2,
 $S:262}
@@ -39372,7 +39372,7 @@ K:function(a){var t=X.Ww(C.w2,C.l5,null,"Google",C.w_,C.l5),s=$.SQ
 if(s==null)s=$.SQ=new N.aP(null,u.Fs)
 return new S.oB(s,"/",H.eF(G.a4I(),u.z),"Matheus Ribeiro",t,!1,null)}}
 A.hq.prototype={
-aQ:function(){return new A.zn(new P.ar(0,0),new M.qa(B.cq(C.j,25,C.I),B.cq(C.j,20,C.I),B.cq(C.j,15,C.p),B.cq(C.j,80,C.ar),B.cq(C.j,40,C.ar),B.cq(C.j,25,C.aH)),null,C.q)}}
+aQ:function(){return new A.zn(new P.ar(0,0),new M.qa(B.cq(C.j,25,C.I),B.cq(C.j,20,C.I),B.cq(C.j,15,C.p),B.cq(C.j,80,C.ar),B.cq(C.j,30,C.ar),B.cq(C.j,25,C.aH)),null,C.q)}}
 A.zn.prototype={
 b5:function(){this.bu()
 this.lC()},
@@ -39390,20 +39390,21 @@ K:function(a){var t,s,r,q,p,o,n,m,l,k,j=this,i=null
 j.e=F.cZ(a,!1).a
 j.zh()
 t=j.e
+s=t.a
+r=(s-s*0.9)/2
 s=S.tY(i,i,i,C.ov.i(0,900),i,i,C.a1)
-r=j.e.a
 q=j.d
 p=q?1:0
 o=P.cy(0,2000)
 n=j.f
-p=G.Un(L.Mq("Matheus Ribeiro Miranda",r<=735?n.e:n.d),C.cH,o,p)
+p=G.Un(L.Mq("Matheus Ribeiro Miranda",j.e.a<=735?n.e:n.d),C.cH,o,p)
 o=P.cy(0,2000)
 m=q?1/0:0
-m=M.dd(i,new Z.uQ(20,20,C.j,i),i,i,i,i,i,i,m)
+m=M.dd(i,new Z.uQ(r,r,C.j,i),i,i,i,i,i,i,m)
 q=q?1:0
 l=P.cy(0,3000)
 k=u.E
-return M.dd(i,M.dd(i,T.pU(C.cy,H.b([T.pc(0,M.dd(i,new T.uo(C.m,C.l1,C.l2,C.jN,i,C.cu,i,H.b([p,new F.tC(C.cH,o,j,m,i),G.Un(L.Mq("Software Developer",n.f),C.cH,l,q)],k),i),i,i,i,i,i,i,r*0.7),i,i,50,50,0,i),T.pc(10,T.Wl(H.b([B.o6(L.o5(C.uG,C.c4),new A.N9()),B.o6(L.o5(C.uE,C.c4),new A.Na()),B.o6(L.o5(C.uF,C.c4),new A.Nb()),B.o6(L.o5(C.uD,C.c4),new A.Nc()),B.o6(L.o5(C.uC,C.c4),new A.Nd()),B.o6(L.o5(C.uH,C.c4),new A.Ne())],k),C.l1),i,i,0,0,i,i)],k),C.cp),i,i,i,i,i,i,i),i,i,s,t.b,i,i,i)}}
+return M.dd(i,M.dd(i,T.pU(C.cy,H.b([T.pc(0,M.dd(i,new T.uo(C.m,C.l1,C.l2,C.jN,i,C.cu,i,H.b([p,new F.tC(C.cH,o,j,m,i),G.Un(L.Mq("Software Developer",n.f),C.cH,l,q)],k),i),i,i,i,i,i,i,i),i,i,50,50,0,i),T.pc(10,T.Wl(H.b([B.o6(L.o5(C.uG,C.c4),new A.N9()),B.o6(L.o5(C.uE,C.c4),new A.Na()),B.o6(L.o5(C.uF,C.c4),new A.Nb()),B.o6(L.o5(C.uD,C.c4),new A.Nc()),B.o6(L.o5(C.uC,C.c4),new A.Nd()),B.o6(L.o5(C.uH,C.c4),new A.Ne())],k),C.l1),i,i,0,0,i,i)],k),C.cp),i,i,i,i,i,i,i),i,i,s,t.b,i,i,i)}}
 A.Ng.prototype={
 $0:function(){var t=this.a
 t.b1(new A.Nf(t))},
@@ -39448,7 +39449,7 @@ if(s!=null)for(s=P.e0(s,s.r,H.x(s).c);s.p();)s.d.seN(0,t)
 this.dC()}}
 X.kN.prototype={
 K:function(a){var t=null
-return new M.pA(M.dd(t,T.pU(C.cy,H.b([T.pc(t,new O.wj(new M.qa(B.cq(C.j,25,C.I),B.cq(C.j,20,C.I),B.cq(C.j,15,C.p),B.cq(C.j,80,C.ar),B.cq(C.j,40,C.ar),B.cq(C.j,25,C.aH)),t),t,t,t,t,0,t),new O.tT(F.Wp(),t)],u.E),C.cp),t,t,t,t,t,t,t),t)}}
+return new M.pA(M.dd(t,T.pU(C.cy,H.b([T.pc(t,new O.wj(new M.qa(B.cq(C.j,25,C.I),B.cq(C.j,20,C.I),B.cq(C.j,15,C.p),B.cq(C.j,80,C.ar),B.cq(C.j,30,C.ar),B.cq(C.j,25,C.aH)),t),t,t,t,t,0,t),new O.tT(F.Wp(),t)],u.E),C.cp),t,t,t,t,t,t,t),t)}}
 O.tT.prototype={
 K:function(a){var t=null,s=H.b([new A.hq(t)],u.E),r=P.b2([null,0],u.qI,u.S),q=s.length
 return new B.vY(new G.LN(!0,!0,!0,s,r),t,C.m,!1,this.c,!1,t,!1,t,q,C.ao,C.wF,t)}}
