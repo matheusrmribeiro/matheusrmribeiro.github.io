@@ -39954,7 +39954,7 @@ r=new E.ys(!0,r,t)}else r=T.Lz(H.b([new D.ly(t),T.Wa(M.c2(t,new E.ox(new M.ie(B.
 return new L.nB(M.c2(t,r,t,t,t,s.b,t,t,t),t)}}
 E.ox.prototype={
 G:function(a){var t=null,s=F.bp($.eG,!1).a.a<=735?C.cE:C.bW,r=this.c,q=r.f
-return T.Tg(H.b([L.qm("Sobre mim",r.d),L.qm("Heey, eu sou o Matheus Ribeiro Miranda!",q),new T.d9(t,20,t,t),new D.cw(C.cJ,t,"Formado em Gest\xe3o da Tecnologia pela FATEC - Jah\xfa SP",q,!0,t),new T.d9(t,5,t,t),new D.cw(C.cJ,t,"Gosto de ajudar outros programadores quando precisam",q,!0,t),new T.d9(t,5,t,t),new D.cw(C.cJ,t,"Atualmente sou o usu\xe1rio top 1\xba em respostas na tag Flutter *-* asjnajsdasdasdasdasdadasdasdasdasdasdas dasd asd asd as dasdasdasdasdasdasdad as dasd asd asd ",q,!0,t),new T.d9(t,5,t,t),new D.cw(C.cJ,t,"Trabalhando com Delphi e Flutter",q,!0,t),new T.d9(t,5,t,t),new D.cw(C.cJ,t,"Busco sempre estar por dentro das novas tecnologias",q,!0,t)],u.p),s,C.im)}}
+return T.Tg(H.b([L.qm("Sobre mim",r.d),L.qm("Heey, eu sou o Matheus Ribeiro Miranda!",q),new T.d9(t,20,t,t),new D.cw(C.cJ,t,"Formado em Gest\xe3o da Tecnologia pela FATEC - Jah\xfa SP",q,!0,t),new T.d9(t,5,t,t),new D.cw(C.cJ,t,"Gosto de ajudar outros programadores quando precisam",q,!0,t),new T.d9(t,5,t,t),new D.cw(C.cJ,t,"Atualmente sou o usu\xe1rio top 1\xba em respostas na tag Flutter *-*",q,!0,t),new T.d9(t,5,t,t),new D.cw(C.cJ,t,"Trabalhando com Delphi e Flutter",q,!0,t),new T.d9(t,5,t,t),new D.cw(C.cJ,t,"Busco sempre estar por dentro das novas tecnologias",q,!0,t)],u.p),s,C.im)}}
 D.ly.prototype={
 aC:function(){var t=null
 return new D.BK(new M.ie(B.ab(C.i,25,C.u,t),B.ab(C.i,20,C.u,t),B.ab(C.i,15,C.k,t),B.ab(C.i,25,C.u,t),B.ab(C.i,16,C.k,t),B.ab(C.i,16,C.ac,1.3),B.ab(C.a8,16,C.k,t),B.ab(C.i,16,C.k,t),B.ab(C.a8,16,C.k,t)),C.n)}}
