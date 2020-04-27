@@ -1,11 +1,11 @@
 {
-    "name": "my_portfolio",
-    "short_name": "my_portfolio",
+    "name": "Matheus Ribeiro",
+    "short_name": "Matheus Ribeiro",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Site do desenvolvedor Matheus Ribeiro Miranda",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
