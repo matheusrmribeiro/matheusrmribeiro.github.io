@@ -1,11 +1,11 @@
 {
-    "name": "Matheus Ribeiro",
+    "name": "Matheus Ribeiro Miranda",
     "short_name": "Matheus Ribeiro",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Site do desenvolvedor Matheus Ribeiro Miranda",
+    "description": "Portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
