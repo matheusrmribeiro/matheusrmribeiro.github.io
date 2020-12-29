@@ -50811,7 +50811,7 @@ G.rP.prototype={
 ap:function(){return new G.Gr(M.la(),C.m)}}
 G.Gr.prototype={
 aS:function(){this.b3()
-P.a0X(P.by(0,1000),null,t.z).b2(0,new G.Z_(this),t.P)},
+P.a0X(P.by(0,500),null,t.z).b2(0,new G.Z_(this),t.P)},
 L:function(a,b){var s,r,q,p=null,o=t.w,n=$.cu.U(o).f.a,m=n.a,l=(m-m*0.9)/2,k=K.cj(b).rx,j=this.d?1:0,i=P.by(0,500)
 j=G.a0z(L.jk("Matheus Ribeiro Miranda",B.fE(C.j,$.cu.U(o).f.a.a*0.1*0.45,C.eW,p)),C.lk,i,j)
 i=P.by(0,2000)

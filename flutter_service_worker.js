@@ -30,9 +30,9 @@ const RESOURCES = {
 "firebase-debug.log": "2e885c20eee6fd8bfb140b58bca1cf80",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a0ed4f069a977390cde73ad245ae9b4e",
-"/": "a0ed4f069a977390cde73ad245ae9b4e",
-"main.dart.js": "65c3f814df234846645df23f81f8311f",
+"index.html": "0724e0cf506416e40f19ea08b93c12b9",
+"/": "0724e0cf506416e40f19ea08b93c12b9",
+"main.dart.js": "bc12cab5532a0cec77716fe14c0a33ab",
 "manifest.json": "3186c9e6945fa6543973709a43667b33",
 "version.json": "aaafa928a4f8616604eca12d830fe765"
 };
