@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-KOTLIN">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="KOTLIN" clip-path="url(#clip-KOTLIN)">
+    <g id="Grupo_3" data-name="Grupo 3" transform="translate(-844.556 -425.256)">
+      <path id="Caminho_11" data-name="Caminho 11" d="M945.894,1690.256h-60.91v63.19Z" transform="translate(0.617 -1225)" fill="#fff"/>
+      <path id="Caminho_13" data-name="Caminho 13" d="M1004.546,1825.716l-59.217-61.4-59.773,61.371Z" transform="translate(0 -1239.984)" fill="#fff"/>
+      <path id="Caminho_12" data-name="Caminho 12" d="M1004.546,1690.256l-118.99,120.5.045-58.218,60.749-62.28Z" transform="translate(0 -1225)" fill="#d9d9d9"/>
+    </g>
+  </g>
+</svg>
