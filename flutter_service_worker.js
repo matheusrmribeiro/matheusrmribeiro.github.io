@@ -35,9 +35,9 @@ const RESOURCES = {
 "firebase-debug.log": "2e885c20eee6fd8bfb140b58bca1cf80",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "dc91234f708b7674e7952ed8645fa031",
-"/": "dc91234f708b7674e7952ed8645fa031",
-"main.dart.js": "95b234cc841b712c48a80ecfc33a3d69",
+"index.html": "fa3d65da20e2df071530bb5b455f5a76",
+"/": "fa3d65da20e2df071530bb5b455f5a76",
+"main.dart.js": "508e36328ffec2fdeaca3e1248de3feb",
 "manifest.json": "3186c9e6945fa6543973709a43667b33",
 "version.json": "aaafa928a4f8616604eca12d830fe765"
 };
