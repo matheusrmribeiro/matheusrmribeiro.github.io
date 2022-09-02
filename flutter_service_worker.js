@@ -47,9 +47,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "daad36d077e7f07b8b053991a5bf1976",
-"/": "daad36d077e7f07b8b053991a5bf1976",
-"main.dart.js": "704d2065788ba2fb3316ee329ae20d15",
+"index.html": "883599ebdd91094d63ced0db648efe60",
+"/": "883599ebdd91094d63ced0db648efe60",
+"main.dart.js": "23d0c51711c7e492fff7049c6c15bedf",
 "manifest.json": "da5c62fab66531ef6732f765b153114c",
 "version.json": "980547175e325fe622a3362b84d55b6a"
 };
